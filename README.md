@@ -6,8 +6,8 @@
   h1 {color:#000080;}
   h2 {color:#8B0000;}
   h3 {color:#1155cc;} 
-  h3 {margin: 0px 200px 0px 200px;}
-  p {margin: 0px 200px 0px 200px;}
+  h3 {margin: 0px 100px 0px 100px;}
+  p {margin: 0px 100px 0px 100px;}
   p {text-align: justify;}
 </style>
 </head>
