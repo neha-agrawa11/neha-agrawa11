@@ -46,7 +46,7 @@
 <br>
 
   <h3> France </h3>
-  <p> Come to France this summer! See the <i>Eiffel Tower</i> and the <i>Louvre Museum</i>, and go to </i>Disneyland</i> in the <i>"City of Love,"</i> Paris! The grand <i>Palace of Versailles</i>, an important part of the French Revolution, is only a short drive away, so make sure to stop there as well! </p>
+  <p> Come to France this summer! See the <i>Eiffel Tower</i> and the <i>Louvre Museum</i>, and go to <i>Disneyland</i> in the <i>"City of Love,"</i> Paris! The grand <i>Palace of Versailles</i>, an important part of the French Revolution, is only a short drive away, so make sure to stop there as well! </p>
   <p> For more information, </p>
 <br>
 <br>
@@ -58,5 +58,4 @@
 <br>
 <br>
 
-</body>
-</html>
+
