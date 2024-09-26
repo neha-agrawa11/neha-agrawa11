@@ -51,7 +51,7 @@
 <br>
 <br>
 <br>
-  <center> <img src="https://i.pinimg.com/originals/ea/43/aa/ea43aa960e4f41d083204c24af2743cc.png" width="200" height="200"> </center>
+  <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20190819_Marina_Bay_Sands-2.jpg/1280px-20190819_Marina_Bay_Sands-2.jpg" width="640" height="427"> </center>
 <br>
 <br>
 <br>
