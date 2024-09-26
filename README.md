@@ -17,8 +17,8 @@
   <margin: 1000 px>
   <center> <h1> <strong>Hello World!</strong> </h1> 
   <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3> </center>
-  <a href="#Asia>Asia</a>
-  <a href="#Europe>Europe</a>
+  <a href="#Asia">Asia</a>
+  <a href="#Europe">Europe</a>
 <br>
 <br>
 
