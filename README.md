@@ -27,7 +27,8 @@
 <br>
 
   <h3> Singapore </h3>
-  <p> Visit this beautiful, clean city with your family or friends. It has huge shopping centers, delicious food stalls on every street, and beautiful botanical gardens. Also, don't miss the giant <i>Marina Bay Sands</i> skyscraper from the movie <i>"Crazy Rich Asians!</i>" </p>
+  <p> Visit this beautiful, clean city with your family or friends. It has huge shopping centers, delicious food stalls on every street, and beautiful botanical gardens. Also, don't miss the giant <i>Marina Bay Sands</i>         skyscraper from the movie <i>"Crazy Rich Asians!</i>" </p>
+  <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20190819_Marina_Bay_Sands-2.jpg/1280px-20190819_Marina_Bay_Sands-2.jpg" width="640" height="427"> </center>
 <br>
 
   <h3> India </h3> 
@@ -51,11 +52,3 @@
 <br>
 <br>
 <br>
-  <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20190819_Marina_Bay_Sands-2.jpg/1280px-20190819_Marina_Bay_Sands-2.jpg" width="640" height="427"> </center>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
