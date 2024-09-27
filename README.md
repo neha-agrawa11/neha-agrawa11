@@ -33,13 +33,13 @@
   <br>
 
   <h3> Singapore </h3>
-  <p> Visit this beautiful, clean city with your family or friends. It has huge shopping centers, delicious food stalls on every street, and beautiful botanical gardens. Also, don't miss the giant <i>Marina Bay Sands</i>         skyscraper featured in the movie <i>"Crazy Rich Asians!</i>" </p>
+  <p> Visit this beautiful, clean city with your family or friends. It has huge shopping centers, delicious food stalls on every street, and beautiful botanical gardens. Also, don't miss the giant <i>Marina Bay Sands</i> skyscraper featured in the movie <i>"Crazy Rich Asians!</i>" </p>
   <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20190819_Marina_Bay_Sands-2.jpg/1280px-20190819_Marina_Bay_Sands-2.jpg" width="640" height="427"> </center>
   <center><h6><i>Marina Bay Sands</i></h6></center>
   <br>
 
   <h3> India </h3> 
-  <p> Located in South Asia, this country has a rich history <i>and</i> lots of rich delicacies! Take a trip to the <i>Taj Mahal</i>, one of the seven wonders of the world; ride a camel in the hot and dry desert; and try       the spicy street food! </p>
+  <p> Located in South Asia, this country has a rich history <i>and</i> lots of rich delicacies! Take a trip to the <i>Taj Mahal</i>, one of the seven wonders of the world; ride a camel in the hot and dry desert; and try the spicy street food! </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Taj_Mahal_2018.jpg/640px-Taj_Mahal_2018.jpg" width="640" height="472"></center>
   <center><h6><i>Taj Mahal</i></h6></center>
   <br>
@@ -48,19 +48,19 @@
 <div id="Europe">
   <center> <h2> Europe </h2> </center>
   <h3> Iceland </h3>
-  <p> With waterfalls at every mile in the road, rich Viking and Norwegian history, and glaciers spanning as far as the eye can see, this hidden gem is sure to exceed all your expectations! Plus, you will get to see sheep      and horses along the way. It is in the Arctic Circle, though, and it rains almost <strong>every day</strong>, so make sure to be prepared with proper winter and rain gear! </p>
+  <p> With waterfalls at every mile in the road, rich Viking and Norwegian history, and glaciers spanning as far as the eye can see, this hidden gem is sure to exceed all your expectations! Plus, you will get to see sheep and horses along the way. It is in the Arctic Circle, though, and it rains almost <strong>every day</strong>, so make sure to be prepared with proper winter and rain gear! </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Glacial_folds_%28Unsplash%29.jpg/640px-Glacial_folds_%28Unsplash%29.jpg" width="640" height="360"></center>
   <center><h6><i>Glacier in Iceland</i></h6></center>
   <br>
 
   <h3> The United Kingdom </h3>
-  <p> Come see the rich, medieval history of England in the huge stone castles in the countryside. Visit Buckingham Palace, where you might see the palace guards with their famous black hats and bright red uniforms. You       can also see the <i>Tower of London</i>, <i>Stonehenge</i>, the <i>London Eye</i>, <i>Westminster Abbey</i>, and much more! </p>
+  <p> Come see the rich, medieval history of England in the huge stone castles in the countryside. Visit Buckingham Palace, where you might see the palace guards with their famous black hats and bright red uniforms. You can also see the <i>Tower of London</i>, <i>Stonehenge</i>, the <i>London Eye</i>, <i>Westminster Abbey</i>, and much more! </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buckingham_Palace_west_facade_%28panoramic%29.jpg/640px-Buckingham_Palace_west_facade_%28panoramic%29.jpg" width="799" height="195"></center>
   <center><h6><i>Buckingham Palace</i></h6></center>
   <br>
 
   <h3> France </h3>
-  <p> Come to France this summer! See the <i>Eiffel Tower</i> and the <i>Louvre Museum</i>, and go to <i>Disneyland</i> in the <i>"City of Love,"</i> Paris! The grand <i>Palace of Versailles</i>, an important part of the       French Revolution, is only a short drive away, so make sure to stop there as well! </p>
+  <p> Come to France this summer! See the <i>Eiffel Tower</i> and the <i>Louvre Museum</i>, and go to <i>Disneyland</i> in the <i>"City of Love,"</i> Paris! The grand <i>Palace of Versailles</i>, an important part of the French Revolution, is only a short drive away, so make sure to stop there as well! </p>
   <p> If you happen to visit in July, don't miss the Tour de France! This is a three-week bike race that is considered one of the most difficult in the world! Check out this <a href="https://www.letour.fr/en/" target="_blank">website</a> for more information.</p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eiffel_Tower_20051010.jpg/640px-Eiffel_Tower_20051010.jpg" width="639" height="480"></center>
   <center><h6><i>Eiffel Tower</i></h6></center>
