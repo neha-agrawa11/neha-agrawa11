@@ -9,6 +9,8 @@
     h3 {margin: 0px 100px 0px 100px;}
     p {margin: 0px 100px 0px 100px;}
     p {text-align: justify;}
+    a:link {color:blue;}
+    a:visited {color:purple;}
   </style>
 </head>
 
