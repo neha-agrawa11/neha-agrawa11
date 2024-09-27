@@ -27,7 +27,7 @@
 <div id="Asia"> 
   <center> <h2> Asia </h2> </center>
   <h3> Vietnam </h3>
-  <p> Vietnam is a great spot for first-time travelers. Visit <i>Da Nang</i>, a coastal city with sandy beaches and nearby mountains with Buddhist shrines. Or take a trip to <i>Hoi An</i> in the central coast and absorb       the Chinese, French and traditional Vietnamese architecture. </p>
+  <p> Vietnam is a great spot for first-time travelers. Visit <i>Da Nang</i>, a coastal city with sandy beaches and nearby mountains with Buddhist shrines. Or take a trip to <i>Hoi An</i> in the central coast and absorb the Chinese, French and traditional Vietnamese architecture. </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tourism_in_Ha_Long_12.jpg/640px-Tourism_in_Ha_Long_12.jpg" width="640" height="480"></center>
   <center><h6><i>Hoi An</i></h6></center>
   <br>
