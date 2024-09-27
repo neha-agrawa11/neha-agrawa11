@@ -15,6 +15,8 @@
 <body>
   <center> <h1> <strong>Hello World!</strong> </h1> 
   <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3>
+  <br>
+  <br>
   <a href="#Asia">Asia</a>
   <br>
   <a href="#Europe">Europe</a></center>
@@ -25,6 +27,7 @@
   <center> <h2> Asia </h2> </center>
   <h3> Vietnam </h3>
   <p> Vietnam is a great spot for first-time travelers. Visit <i>Da Nang</i>, a coastal city with sandy beaches and nearby mountains with Buddhist shrines. Or take a trip to <i>Hoi An</i> in the central coast and absorb       the Chinese, French and traditional Vietnamese architecture. </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tourism_in_Ha_Long_12.jpg/640px-Tourism_in_Ha_Long_12.jpg" width="640" height="480">
   <br>
 
   <h3> Singapore </h3>
