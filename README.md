@@ -17,6 +17,7 @@
   <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3>
   <br>
   <br>
+  <h3>Choose a Continent!</h3>
   <a href="#Asia">1. Asia</a>
   <br>
   <a href="#Europe">2. Europe</a></center>
@@ -45,10 +46,12 @@
   <center> <h2> Europe </h2> </center>
   <h3> Iceland </h3>
   <p> With waterfalls at every mile in the road, rich Viking and Norwegian history, and glaciers spanning as far as the eye can see, this hidden gem is sure to exceed all your expectations! Plus, you will get to see sheep      and horses along the way. It is in the Arctic Circle, though, and it rains almost <strong>every day</strong>, so make sure to be prepared with proper winter and rain gear! </p>
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Glacial_folds_%28Unsplash%29.jpg/640px-Glacial_folds_%28Unsplash%29.jpg" width="640" height="360"></center>
   <br>
 
   <h3> The United Kingdom </h3>
   <p> Come see the rich, medieval history of England in the huge stone castles in the countryside. Visit Buckingham Palace, where you might see the palace guards with their famous black hats and bright red uniforms. You       can also see the <i>Tower of London</i>, <i>Stonehenge</i>, the <i>London Eye</i>, <i>Westminster Abbey</i>, and much more! </p>
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buckingham_Palace_west_facade_%28panoramic%29.jpg/640px-Buckingham_Palace_west_facade_%28panoramic%29.jpg" width="640" height="156"></center>
   <br>
 
   <h3> France </h3>
