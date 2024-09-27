@@ -14,13 +14,13 @@
 
 <body>
   <center> <h1> <strong>Hello World!</strong> </h1> 
-  <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3></center>
+  <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3>
   <br>
   <br>
   <h3>Choose a Continent!</h3>
   <a href="#Asia">1. Asia</a>
   <br>
-  <a href="#Europe">2. Europe</a>
+  <a href="#Europe">2. Europe</a></center>
   <br>
   <br>
 
