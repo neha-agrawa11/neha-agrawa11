@@ -51,13 +51,13 @@
 
   <h3> The United Kingdom </h3>
   <p> Come see the rich, medieval history of England in the huge stone castles in the countryside. Visit Buckingham Palace, where you might see the palace guards with their famous black hats and bright red uniforms. You       can also see the <i>Tower of London</i>, <i>Stonehenge</i>, the <i>London Eye</i>, <i>Westminster Abbey</i>, and much more! </p>
-  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buckingham_Palace_west_facade_%28panoramic%29.jpg/640px-Buckingham_Palace_west_facade_%28panoramic%29.jpg" width="640" height="156"></center>
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buckingham_Palace_west_facade_%28panoramic%29.jpg/640px-Buckingham_Palace_west_facade_%28panoramic%29.jpg" width="799" height="195"></center>
   <br>
 
   <h3> France </h3>
   <p> Come to France this summer! See the <i>Eiffel Tower</i> and the <i>Louvre Museum</i>, and go to <i>Disneyland</i> in the <i>"City of Love,"</i> Paris! The grand <i>Palace of Versailles</i>, an important part of the       French Revolution, is only a short drive away, so make sure to stop there as well! </p>
   <p> If you happen to visit in July, don't miss the Tour de France! This is a three-week bike race that is considered one of the most difficult in the world! Check out this <a href="https://www.letour.fr/en/" target="_blank">website</a> for more information.</p>
-  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eiffel_Tower_20051010.jpg/640px-Eiffel_Tower_20051010.jpg" width="799" height="195"></center>
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eiffel_Tower_20051010.jpg/640px-Eiffel_Tower_20051010.jpg" width="639" height="480"></center>
   <br>
   <br>
   <br>
