@@ -18,7 +18,7 @@
   <br>
   <br>
   <h3>Choose a Continent!</h3>
-  <a href="#Asia"><strong><underline>1. Asia</underline></strong></a>
+  <a href="#Asia"><strong><u>1. Asia</u></strong></a>
   <br>
   <a href="#Europe">2. Europe</a></center>
   <br>
