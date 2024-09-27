@@ -17,9 +17,9 @@
   <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3>
   <br>
   <br>
-  <a href="#Asia">Asia</a>
+  <a href="#Asia">1. Asia</a>
   <br>
-  <a href="#Europe">Europe</a></center>
+  <a href="#Europe">2. Europe</a></center>
   <br>
   <br>
 
@@ -27,7 +27,7 @@
   <center> <h2> Asia </h2> </center>
   <h3> Vietnam </h3>
   <p> Vietnam is a great spot for first-time travelers. Visit <i>Da Nang</i>, a coastal city with sandy beaches and nearby mountains with Buddhist shrines. Or take a trip to <i>Hoi An</i> in the central coast and absorb       the Chinese, French and traditional Vietnamese architecture. </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tourism_in_Ha_Long_12.jpg/640px-Tourism_in_Ha_Long_12.jpg" width="640" height="480">
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tourism_in_Ha_Long_12.jpg/640px-Tourism_in_Ha_Long_12.jpg" width="640" height="480"></center>
   <br>
 
   <h3> Singapore </h3>
@@ -37,6 +37,7 @@
 
   <h3> India </h3> 
   <p> Located in South Asia, this country has a rich history <i>and</i> lots of rich delicacies! Take a trip to the <i>Taj Mahal</i>, one of the seven wonders of the world; ride a camel in the hot and dry desert, and try       the spicy street food! </p>
+  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Taj_Mahal_2018.jpg/640px-Taj_Mahal_2018.jpg" width="640" height="472"></center>
   <br>
   <br>
 
