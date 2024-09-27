@@ -14,8 +14,8 @@
 
 <body>
   <center> <h1> <strong>Hello World!</strong> </h1> 
-  <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3> </center>
-  <center></center><a href="#Asia">Asia</a>
+  <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3>
+  <a href="#Asia">Asia</a>
   <br>
   <a href="#Europe">Europe</a></center>
   <br>
