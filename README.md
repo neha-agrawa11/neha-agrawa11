@@ -18,9 +18,9 @@
   <br>
   <br>
   <h3>Choose a Continent!</h3>
-  <a href="#Asia">1. <strong><u>Asia</u></strong></a>
+  <a href="#Asia"><strong>1. <u>Asia</u></strong></a>
   <br>
-  <a href="#Europe">2. <strong><u>Europe</u></strong></a></center>
+  <a href="#Europe"><strong>2. <u>Europe</u></strong></a></center>
   <br>
   <br>
 
@@ -35,14 +35,12 @@
   <h3> Singapore </h3>
   <p> Visit this beautiful, clean city with your family or friends. It has huge shopping centers, delicious food stalls on every street, and beautiful botanical gardens. Also, don't miss the giant <i>Marina Bay Sands</i>         skyscraper featured in the movie <i>"Crazy Rich Asians!</i>" </p>
   <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20190819_Marina_Bay_Sands-2.jpg/1280px-20190819_Marina_Bay_Sands-2.jpg" width="640" height="427"> </center>
-  <br>
   <center><h6><i>Marina Bay Sands</i></h6></center>
   <br>
 
   <h3> India </h3> 
   <p> Located in South Asia, this country has a rich history <i>and</i> lots of rich delicacies! Take a trip to the <i>Taj Mahal</i>, one of the seven wonders of the world; ride a camel in the hot and dry desert; and try       the spicy street food! </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Taj_Mahal_2018.jpg/640px-Taj_Mahal_2018.jpg" width="640" height="472"></center>
-  <br>
   <center><h6><i>Taj Mahal</i></h6></center>
   <br>
   <br>
@@ -52,14 +50,12 @@
   <h3> Iceland </h3>
   <p> With waterfalls at every mile in the road, rich Viking and Norwegian history, and glaciers spanning as far as the eye can see, this hidden gem is sure to exceed all your expectations! Plus, you will get to see sheep      and horses along the way. It is in the Arctic Circle, though, and it rains almost <strong>every day</strong>, so make sure to be prepared with proper winter and rain gear! </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Glacial_folds_%28Unsplash%29.jpg/640px-Glacial_folds_%28Unsplash%29.jpg" width="640" height="360"></center>
-  <br>
   <center><h6><i>Glacier in Iceland</i></h6></center>
   <br>
 
   <h3> The United Kingdom </h3>
   <p> Come see the rich, medieval history of England in the huge stone castles in the countryside. Visit Buckingham Palace, where you might see the palace guards with their famous black hats and bright red uniforms. You       can also see the <i>Tower of London</i>, <i>Stonehenge</i>, the <i>London Eye</i>, <i>Westminster Abbey</i>, and much more! </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buckingham_Palace_west_facade_%28panoramic%29.jpg/640px-Buckingham_Palace_west_facade_%28panoramic%29.jpg" width="799" height="195"></center>
-  <br>
   <center><h6><i>Buckingham Palace</i></h6></center>
   <br>
 
