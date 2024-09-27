@@ -18,9 +18,9 @@
   <br>
   <br>
   <h3>Choose a Continent!</h3>
-  <a href="#Asia">1.<strong><u> Asia</u></strong></a>
+  <a href="#Asia">1. <strong><u>Asia</u></strong></a>
   <br>
-  <a href="#Europe">2.<strong><u>Europe</u></strong> </a></center>
+  <a href="#Europe">2. <strong><u>Europe</u></strong></a></center>
   <br>
   <br>
 
@@ -29,7 +29,6 @@
   <h3> Vietnam </h3>
   <p> Vietnam is a great spot for first-time travelers. Visit <i>Da Nang</i>, a coastal city with sandy beaches and nearby mountains with Buddhist shrines. Or take a trip to <i>Hoi An</i> in the central coast and absorb       the Chinese, French and traditional Vietnamese architecture. </p>
   <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tourism_in_Ha_Long_12.jpg/640px-Tourism_in_Ha_Long_12.jpg" width="640" height="480"></center>
-  <br>
   <center><h6><i>Hoi An</i></h6></center>
   <br>
 
