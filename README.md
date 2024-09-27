@@ -14,7 +14,9 @@
 
 <body>
   <center> <h1> <strong>Hello World!</strong> </h1> 
-  <h3>Looking for a fun place to go on vacation?<br>Use this website to find the perfect destination!</h3>
+  <h3>Looking for a fun place to go on vacation?
+  <br>
+  Use this website to find the perfect destination!</h3>
   <br>
   <br>
   <h3>Choose a Continent!</h3>
