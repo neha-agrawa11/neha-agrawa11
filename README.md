@@ -56,8 +56,7 @@
 
   <h3> France </h3>
   <p> Come to France this summer! See the <i>Eiffel Tower</i> and the <i>Louvre Museum</i>, and go to <i>Disneyland</i> in the <i>"City of Love,"</i> Paris! The grand <i>Palace of Versailles</i>, an important part of the       French Revolution, is only a short drive away, so make sure to stop there as well! </p>
-  <p> If you happen to visit in July, don't miss the Tour de France! This is a three-week bike race that is considered one of the most difficult in the world! Check out this website for more information:</p>
-     <a href="https://www.letour.fr/en/"></a>
+  <p> If you happen to visit in July, don't miss the Tour de France! This is a three-week bike race that is considered one of the most difficult in the world! Check out this <a href="https://www.letour.fr/en/">website</a> for more information.</p>
   <br>
   <br>
   <br>
